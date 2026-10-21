@@ -5,7 +5,7 @@ Inferno Sentinel Mesh is a low-cost early warning system for floods, storms, rai
 </p>
 
 <p>
-Made by Team Inferno. It won the Junior Project Display segment at IUT Techathon Nationals and Rover Summit.
+Made by Team Inferno. It won the Junior Project Display segment at IUT Techathon Nationals and Rover Summit 2026.
 </p>
 
 <br>
@@ -100,6 +100,11 @@ The system works and the laptop forecast part is reliable. There is one known pr
 <br>
 <hr>
 <br>
+<h2>Current state</h2> 
+<p> The system works end to end. When everything is on the same Wi-Fi network, the sensor nodes, the receiver and the laptop forecast server all work together without any issues. </p>
+<br> 
+<hr> 
+<br>
 
 <h2>What is next</h2>
 
@@ -111,4 +116,4 @@ The plan is to remove Wi-Fi from the sensor nodes completely so they only use th
 <hr>
 <br>
 
-<p>Firmware version 3.2.0</p>
+
