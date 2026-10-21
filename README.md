@@ -1,5 +1,5 @@
 <h1>Inferno Sentinel Mesh</h1>
-
+<h2>N.B> Change branche to find actual firmware and wiring instructions.</h2>
 <p>
 Inferno Sentinel Mesh is a low-cost early warning system for floods, storms, rain and ground erosion. It is built from three small ESP32 boards that talk to each other directly over radio, so it keeps working when the power grid is down and there is no internet. If internet is available, it uses it to add weather forecasts on top, but it never depends on it.
 </p>
