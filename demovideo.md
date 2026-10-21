@@ -1,2 +1,4 @@
 <h1>First Prototype Original Video With Bengali Audio No Subtitles.</h1>
-[![Watch the demo](https://img.youtube.com/vi/pQIL9GXfyTk/hqdefault.jpg)](https://youtu.be/pQIL9GXfyTk)
+<a href="https://youtu.be/pQIL9GXfyTk">
+  <img src="https://img.youtube.com/vi/pQIL9GXfyTk/hqdefault.jpg" alt="Watch the demo" width="600">
+</a>
