@@ -1,7 +1,7 @@
 """
 Phyxon Sentinel Mesh v2 - Laptop Server
 =========================================
-Runs on your Fedora laptop. Polls OpenWeatherMap every 10 minutes,
+Polls OpenWeatherMap every 10 minutes,
 detects flood/cyclone warnings in the forecast, serves a simple
 /alerts endpoint that the receiver ESP32 polls every 60 seconds.
 
@@ -28,8 +28,8 @@ from datetime import datetime
 # ============================================================
 # CONFIG — edit these before running
 # ============================================================
-CITY        = "Dhaka"          # change to your target city
-OWM_API_KEY = "529d0b120eabfc07e428833ca472931c" # paste your OpenWeatherMap key
+CITY        = "##"          # change to your target city
+OWM_API_KEY = "##" # paste your OpenWeatherMap key
 PORT        = 8080
 POLL_EVERY  = 600  # seconds (10 minutes)
 
